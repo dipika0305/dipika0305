@@ -71,15 +71,6 @@ I thrive at the intersection of data and business strategy, translating business
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dipika0305&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dipika0305&theme=ayu-mirage&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipika0305&theme=ayu-mirage&layout=compact&hide_border=false)
-
----
 
 # ✍️ Data Quote of the Day
 
